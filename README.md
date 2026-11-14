@@ -1,7 +1,7 @@
-Dex2c Plus
+Dex2cPlus
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=650&height=65&lines=Dex2c Plus;DEX+%E2%86%92+C%2B%2B17+%E2%86%92+JNI;Native+Android+Protection" alt="Dex2c Plus Animated Title" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=650&height=65&lines=Dex2cPlus;DEX+%E2%86%92+C%2B%2B17+%E2%86%92+JNI;Native+Android+Protection" alt="Dex2cPlus Animated Title" />
 </p><p align="center">
   <strong>Advanced Native Android Protection Suite</strong>
   <br/>
